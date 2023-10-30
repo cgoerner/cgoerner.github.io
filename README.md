@@ -1,1 +1,4 @@
-root
+layout: home
+---
+
+Home page
