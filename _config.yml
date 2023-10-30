@@ -5,7 +5,3 @@ description: Senior DevOps Engineer
 author:
   name: 'Chris Goerner'
   email: 'chris@goerner.com.au'
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
