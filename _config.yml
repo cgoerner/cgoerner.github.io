@@ -1,3 +1,9 @@
 remote_theme: jonaharagon/jekyll-bootstrap-theme
 title: Chris Goerner
 description: Senior DevOps Engineer
+
+bootstrap:
+  header_pages:
+   - about.md
+   - second.html
+   - folder/third.md
