@@ -14,14 +14,14 @@ excerpt: "Senior DevOps Engineer with 20+ years experience working with infrastr
 intro: 
   - excerpt: "Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
 feature_row:
-  - image_path: /images/feature1.jpg
+  - image_path: /images/feature2.jpg
     alt: "Infrastructure"
     title: "Infrastructure"
     excerpt: "Operating systems, virtualisation, containers, Kubernetes, cloud platforms"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
-  - image_path: /images/feature2.jpg
+  - image_path: /images/feature1.jpg
     alt: "Operations"
     title: "Operations"
     excerpt: "Ansible, Terraform, ArgoCD, New Relic, Prometheus"
