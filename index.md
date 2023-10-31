@@ -2,7 +2,7 @@
 title: Chris Goerner
 layout: splash
 header:
-  overlay_image: "#E97451"
+  overlay_color: "#E97451"
   overlay_filter: "0.6"
   overlay_image: /images/computer-room.jpg
   actions:
