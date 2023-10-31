@@ -3,9 +3,9 @@ title: Chris Goerner
 description: Senior DevOps Engineer
 
 analytics:
-  provider               : "google-gtag"
+  provider: "google-gtag"
   google:
-    tracking_id          : "G-K2Z1D7FG2R"
+    tracking_id: "G-K2Z1D7FG2R"
 
 author:
   name: 'Chris Goerner'
