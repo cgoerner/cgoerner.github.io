@@ -17,23 +17,23 @@ feature_row:
   - image_path: /images/feature1.jpg
     alt: "Infrastructure"
     title: "Infrastructure"
-    excerpt: "Infrastructure as code"
+    excerpt: "Operating systems, virtualisation, containers, Kubernetes, cloud platforms"
     url: "https://galah.it"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /images/feature2.jpg
     alt: "Operations"
     title: "Operations"
-    excerpt: "DevOps"
+    excerpt: "Ansible, Terraform, ArgoCD, New Relic, Prometheus"
     url: "https://galah.it"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /images/feature3.jpg
     alt: "Development"
     title: "Development"
-    excerpt: "Development"
+    excerpt: "Python, Ruby, Go, Shell, Scrum, GitLab, CI/CD"
     url: "https://galah.it"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
 ---
 
