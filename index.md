@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 header:
   overlay_colour: #000000
 ---
