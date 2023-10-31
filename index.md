@@ -5,6 +5,5 @@ header:
   overlay_image: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/computer-room.jpg
+excerpt: "Senior DevOps Engineer with 20+ years experience in infrastructure, operations and development teams. Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
 ---
-
-Senior DevOps Engineer with 20+ years experience in infrastructure, operations and development teams. Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps.
