@@ -3,7 +3,7 @@ title: Chris Goerner
 layout: splash
 header:
   overlay_image: "#7B3F00"
-  overlay_filter: "0.75"
+  overlay_filter: "0.6"
   overlay_image: /images/computer-room.jpg
   actions:
     - label: "Galah IT"
