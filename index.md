@@ -14,24 +14,24 @@ excerpt: "Senior DevOps Engineer with 20+ years experience working with infrastr
 intro: 
   - excerpt: "Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
 feature_row:
-  - image_path: /images/computer-room.jpg
+  - image_path: /images/feature1.jpg
     alt: "Infrastructure"
     title: "Infrastructure"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Infrastructure as code"
     url: "https://galah.it"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/computer-room.jpg
+  - image_path: /images/feature2.jpg
     alt: "Operations"
     title: "Operations"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "DevOps"
     url: "https://galah.it"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/computer-room.jpg
+  - image_path: /images/feature3.jpg
     alt: "Development"
     title: "Development"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Development"
     url: "https://galah.it"
     btn_label: "Read More"
     btn_class: "btn--primary"
