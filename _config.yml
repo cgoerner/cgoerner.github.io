@@ -2,6 +2,11 @@ remote_theme: mmistakes/minimal-mistakes
 title: Chris Goerner
 description: Senior DevOps Engineer
 
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-K2Z1D7FG2R"
+
 author:
   name: 'Chris Goerner'
   email: 'chris@goerner.com.au'
