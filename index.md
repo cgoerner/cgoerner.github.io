@@ -10,9 +10,9 @@ header:
       url: "https://galah.it"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/chris-goerner/"
-excerpt: "Senior DevOps Engineer with 20+ years experience in infrastructure, operations and development teams. Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
+excerpt: "Senior DevOps Engineer with 20+ years experience in infrastructure, operations and development teams."
 intro: 
-  - excerpt: "Senior DevOps Engineer with 20+ years experience in infrastructure, operations and development teams. Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
+  - excerpt: "Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
 
 ---
 
