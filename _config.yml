@@ -6,7 +6,5 @@ author:
   name: 'Chris Goerner'
   email: 'chris@goerner.com.au'
 
-text_skin: dark
-
 plugins:
   - jekyll-include-cache
