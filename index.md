@@ -14,21 +14,27 @@ excerpt: "Senior DevOps Engineer with 20+ years experience working with infrastr
 intro: 
   - excerpt: "Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+  - image_path: /images/computer-room.jpg
+    alt: "Infrastructure"
+    title: "Infrastructure"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://galah.it"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: /images/computer-room.jpg
+    alt: "Operations"
+    title: "Operations"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://galah.it"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /images/computer-room.jpg
+    alt: "Development"
+    title: "Development"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://galah.it"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
