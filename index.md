@@ -6,13 +6,13 @@ header:
   overlay_filter: "0.6"
   overlay_image: /images/computer-room.jpg
   actions:
-    - label: "Galah IT"
-      url: "https://galah.it"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/chris-goerner/"
-excerpt: "Senior DevOps Engineer with 20+ years experience working with infrastructure, operations and development teams."
+    - label: "galah.it"
+      url: "https://galah.it"
+excerpt: "Senior DevOps Engineer with experience working with infrastructure, operations and development teams."
 intro: 
-  - excerpt: "Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
+  - excerpt: "Broad experience in IT, including Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
 feature_row:
   - image_path: /images/feature2.jpg
     alt: "Infrastructure"
